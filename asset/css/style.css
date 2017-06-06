@@ -28,14 +28,7 @@ img{
 	padding: 5%;
 }
 
-@media (min-width: 535px) and (max-width: 824px){
-	[class*="col-"]{
-		width: 100%;
-	}
-	body{
-		background: black;
-		font-family: 'Lobster', cursive;
-		color: white;
-
-	}
+.container{
+	margin: 50px;
 }
+
